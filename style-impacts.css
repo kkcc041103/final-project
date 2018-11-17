@@ -1,0 +1,24 @@
+h1 {
+	font: 25px impact, serif;
+	align: center;
+}
+
+h3 {
+	font: 20px impact, serif;
+}
+
+p {
+	font: 15px Georgia, serif;
+}
+
+h4 {
+	font: 15px impact, serif;
+}
+ 
+ul4 {
+	font: 15px, Georgia,serif;
+}
+
+div {
+	word-wrap: break word;
+}

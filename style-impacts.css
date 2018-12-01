@@ -22,3 +22,7 @@ ul4 {
 div {
 	word-wrap: break word;
 }
+
+body {
+	background-color: blue;
+}
